@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg) ;
+    }
+}
+.spin {
+    animation: spin 40s linear infinite;
+}
+
+button {
+    @apply bg-gradient-to-r from-pink-400 to-pink-800 hover:scale-105 duration-200 text-white py-2 px-4 rounded-full
+} */
